@@ -1,0 +1,8 @@
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark_blue">#0F1B33</color>
+    <color name="card_background">#1F2B4B</color>
+    <color name="accent_color">#4CAF50</color>
+</resources>
